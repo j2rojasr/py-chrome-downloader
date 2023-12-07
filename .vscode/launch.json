@@ -1,0 +1,12 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "debug",
+			"type": "python",
+			"request": "launch",
+			"program": "${workspaceFolder}/download_chrome.py",
+			"console": "integratedTerminal"
+		}
+	]
+}
